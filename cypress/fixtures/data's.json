@@ -1,0 +1,16 @@
+{
+  "baseUrl": "https://www.wtwco.com/ICT",
+  "languages": {
+    "usEnglish": "United States - English",
+    "ukEnglish": "United Kingdom - English",
+    "frFrench": "France - Français"
+  },
+  "defaultLanguage": "usEnglish",
+  "searchQuery": "IFRS 17",
+  "expectedLinkStart": "https://www.wtwco.com/en-us/",
+  "sortOptions": {
+    "date": "date",
+    "relevance": "relevance"
+  },
+  "contentType": "Article"
+}
